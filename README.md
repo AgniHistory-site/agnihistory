@@ -14,3 +14,5 @@
     <button type="submit">Join Now</button>
   </form>
 </section>
+ 
+
