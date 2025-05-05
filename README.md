@@ -14,5 +14,34 @@
     <button type="submit">Join Now</button>
   </form>
 </section>
- 
+   
+
+
+form {
+  background-color: #1e1e1e;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 20px auto;
+}
+input, textarea, button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: none;
+  border-radius: 5px;
+}
+input, textarea {
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+}
+button {
+  background-color: #90caf9;
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #64b5f6;
+}
 
